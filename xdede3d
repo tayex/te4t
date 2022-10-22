@@ -50,12 +50,12 @@ local sections = {}
 local theme = {
     accent = Color3.fromRGB(255, 255, 255),
     light_contrast = Color3.fromRGB(255, 255, 255),
-    dark_contrast = Color3.fromRGB(20, 20, 20),
+    dark_contrast = Color3.fromRGB(255, 255, 255),
     outline = Color3.fromRGB(0, 0, 0),
     inline = Color3.fromRGB(50, 50, 50),
     textcolor = Color3.fromRGB(255, 255, 255),
     textborder = Color3.fromRGB(0, 0, 0),
-    cursoroutline = Color3.fromRGB(10, 10, 10),
+    cursoroutline = Color3.fromRGB(255, 255, 255),
     font = 5,
     textsize = 15
 }
